@@ -1,0 +1,25 @@
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Database & External Services
+supabase>=2.10.0  # Use latest compatible version
+groq>=0.13.0  # Use latest compatible version
+resend==0.7.0
+
+# Background Tasks
+apscheduler==3.10.4
+
+# Configuration & Validation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# File Upload
+python-multipart==0.0.6
+
+# Testing (Development)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
