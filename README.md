@@ -501,4 +501,4 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 
 **Built with ❤️ for modern sales teams**
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
